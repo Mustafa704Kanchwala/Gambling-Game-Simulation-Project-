@@ -1,8 +1,2 @@
-/**
- * 
- */
-/**
- * 
- */
-module GamblingSimulation {
+module GamblingGameSimulation {
 }
